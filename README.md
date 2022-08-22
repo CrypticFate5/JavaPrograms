@@ -5,7 +5,7 @@
 
 ### Contains Java programs which are frequently used  
 ---
-## 🌟 Simple Programs
+## 🌟 [Simple Programs](SimpleProg)
 - [Factorial of Number](SimpleProg/factorial.java)
 - [Greatest of Three Numbers](SimpleProg/GreatestOf3Nos.java)
 - [Sum, Average, Maximum and Minimum of given numbers](SimpleProg/samm.java)
@@ -13,7 +13,7 @@
 - [Odd or Even](SimpleProg/OddEven.java)
 ---
 
-## 🌟 Simple Programs Using Command Line Arguments  
+## 🌟 [Simple Programs Using Command Line Arguments](SimpleProgUsingCmdLine)  
 - [Sum of two numbers](SimpleProgUsingCmdLine/SumOfTwoNos.java)
 - [Swap two numbers](SimpleProgUsingCmdLine/SwapTwoNos.java)
 - [Greatest of two numbers](SimpleProgUsingCmdLine/GreatestOfTwoNos.java) 
