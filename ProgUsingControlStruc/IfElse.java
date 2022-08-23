@@ -2,14 +2,16 @@ package JavaPrograms.ProgUsingControlStruc;
 
 import java.util.Scanner;
 
-public class SimpleIf {
+public class IfElse {
     public static void main(String[] args) {
-        System.out.println("Program to find if a number is Even");
-        System.out.println("Enter the number");
+        System.out.println("Enter the age:");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        if((n&1)==0){
-            System.out.println(n+" is an Even number");
+        if(n>17){
+            System.out.println("Eligible to vote");
+        }
+        else{
+            System.out.println("Not eligible to vote");
         }
         sc.close();
     }

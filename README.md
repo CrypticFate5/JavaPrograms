@@ -22,10 +22,10 @@
 ---
 
 ## 🌟 Programs using Control Structures
-- [Simple if]
-- [if else]
-- [Nested if]
-- [else if Ladder]
+- [Simple if](ProgUsingControlStruc/SimpleIf.java)
+- [if else](ProgUsingControlStruc/IfElse.java)
+- [Nested if](ProgUsingControlStruc/NestedIf.java)
+- [else if Ladder](ProgUsingControlStruc/ElseIfLadder.java)
 - [Switch statement]
 - [While and do-while loop]
 - [for loop]
