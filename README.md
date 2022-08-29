@@ -2,9 +2,10 @@
 <p align="center">
   <img  src="cryptic-fate5.svg" />
 </p>
-<!-- Satya heres -->
+
 ### Contains Java programs which are frequently used  
 ---
+
 ## 🌟 [Simple Programs](SimpleProg)
 - [Factorial of Number](SimpleProg/factorial.java)
 - [Greatest of Three Numbers](SimpleProg/GreatestOf3Nos.java)
