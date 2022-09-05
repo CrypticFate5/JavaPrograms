@@ -22,7 +22,7 @@
 - [Integers using parseInt](SimpleProgUsingCmdLine/IntUsingParseInt.java)
 ---
 
-## 🌟 Programs using Control Structures
+## 🌟 [Programs using Control Structures](ProgUsingControlStruc)
 - [Simple if](ProgUsingControlStruc/SimpleIf.java)
 - [if else](ProgUsingControlStruc/IfElse.java)
 - [Nested if](ProgUsingControlStruc/NestedIf.java)
@@ -32,7 +32,7 @@
 - [for loop](ProgUsingControlStruc/forLoop.java)
 ---
 
-## 🌟 Programs using Arrays
+## 🌟 [Programs using Arrays](Arrays)
 - [Binary Search](Arrays/binarySearch.java)
 - [To find second largest element in an array](Arrays/secLargest.java)
 - [To remove duplicates from an array](Arrays/findDup.java)
