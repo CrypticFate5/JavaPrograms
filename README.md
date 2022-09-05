@@ -27,18 +27,18 @@
 - [if else](ProgUsingControlStruc/IfElse.java)
 - [Nested if](ProgUsingControlStruc/NestedIf.java)
 - [else if Ladder](ProgUsingControlStruc/ElseIfLadder.java)
-- [Switch statement]
-- [While and do-while loop]
-- [for loop]
+- [Switch statement](ProgUsingControlStruc/switchDemo.java)
+- [While and do-while loop](ProgUsingControlStruc/whileLoop.java)
+- [for loop](ProgUsingControlStruc/forLoop.java)
 ---
 
 ## 🌟 Programs using Arrays
-- [Binary Search]
-- [To find second largest element in an array]
-- [To remove duplicates from an array]
-- [Merge two arrays]
-- [Rotate an array]
-- [Sorting an array in ascending and descending order]
-- [To interchange first and last row of a Matrix]
+- [Binary Search](Arrays/binarySearch.java)
+- [To find second largest element in an array](Arrays/secLargest.java)
+- [To remove duplicates from an array](Arrays/findDup.java)
+- [Merge two arrays](Arrays/mergeArrays.java)
+- [Rotate an array](Arrays/rotArray.java)
+- [Sorting an array](Arrays/sortArray.java)
+- [To interchange first and last row of a Matrix](Arrays/interchange.java)
 ---
 
